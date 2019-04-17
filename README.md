@@ -12,6 +12,7 @@ This is my first deployed model.
 Install
 --------
 
+You need a AWS Account.
 We will be using the [IMDb dataset](http://ai.stanford.edu/~amaas/data/sentiment/)
 
 More Information
