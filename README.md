@@ -1,6 +1,6 @@
 # sentiment_analysis_model
 
-Our goal will be to have a simple web page which a user can use to enter a movie review. The web page will then send the review off to our deployed model (AWS) which will predict the sentiment of the entered review.
+The goal will be to have a simple web page which a user can use to enter a movie review. The web page will then send the review off to our deployed model (AWS) which will predict the sentiment of the entered review.
 
 In this project, we will use a LSTM cell.
 
